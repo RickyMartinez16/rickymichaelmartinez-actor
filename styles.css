@@ -5,4 +5,7 @@ body {
   .navbar {
     margin-bottom: 20px;
   }
-  
+
+.row title{
+    background-image: url("photos/ricky-martinez-7337.jpg");
+}
