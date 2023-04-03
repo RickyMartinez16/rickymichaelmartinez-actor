@@ -33,3 +33,12 @@ body {
     padding-bottom: 300px;
 } */
 
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+
+.card-text{
+    color: transparent
+}
