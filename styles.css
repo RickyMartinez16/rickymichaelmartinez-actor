@@ -55,3 +55,7 @@ body {
     pointer-events: none;
     color:transparent
 }
+
+.cover-btn{
+    background-color: transparent;
+}
