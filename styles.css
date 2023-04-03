@@ -42,3 +42,16 @@ body {
 .card-text{
     color: transparent
 }
+
+.cover{
+    color:transparent
+}
+
+.disabled{
+    pointer-events: none;
+  }
+
+.cover-footer{
+    pointer-events: none;
+    color:transparent
+}
