@@ -75,7 +75,13 @@ body {
       color: #F5F5F5;
       text-shadow: 1px 1px #050505
     }
+    .link-card{
+        margin-top: 18%;
+    }
 
+    .link-title{
+        margin-top: 2%
+    }
   }
 
 .actor-cover{
