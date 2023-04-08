@@ -80,7 +80,8 @@ body {
     }
 
     .link-title{
-        margin-top: 2%
+        margin-top: 2%;
+        text-align: center;
     }
   }
 
