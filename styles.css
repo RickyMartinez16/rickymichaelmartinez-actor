@@ -15,7 +15,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: 100vw auto;
     height: 100%;
     overflow: hidden;
 }
