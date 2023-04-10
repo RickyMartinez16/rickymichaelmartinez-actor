@@ -63,10 +63,19 @@ body {
 }
 
 .title-name{
-    font-size: 48px;
+    font-size: 230%;
     margin-left: 8px;
     margin-top: 15px;
 }
+
+@media only screen and (max-width: 700px) {
+    .title-name {
+      font-size: 150%;
+      margin-left: 2px;
+      color: #F5F5F5;
+      text-shadow: 1px 1px #050505
+    }
+  }
 
 .actor-cover{
     margin-left: 10px;
