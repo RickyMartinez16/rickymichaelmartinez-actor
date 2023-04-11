@@ -11,8 +11,8 @@ body {
 } */
 
 .cover-photo{
-    background: url("photos/ricky-martinez-7337.jpg") no-repeat center 0% fixed; 
-    -webkit-background-size: cover;
+    background: url("photos/ricky-martinez-7337.jpg") no-repeat center center fixed; 
+    background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
